@@ -19,7 +19,11 @@ Você pode utilizar e compartilhar o conteúdo, desde que atribua o autor, não 
 [https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt-br](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt-br)
 
 ---
+## Versões
 
+[CHANGELOG](CHANGELOG.md)
+
+---
 ## 🌐 Links
 
 - **Wole:** 
