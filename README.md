@@ -16,7 +16,7 @@ Este projeto está licenciado sob a **Creative Commons BY-NC-ND 4.0**.
 Você pode utilizar e compartilhar o conteúdo, desde que atribua o autor, não o utilize para fins comerciais e não crie obras derivadas.
 
 🔗 Veja mais detalhes em:  
-[https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt-br](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt-br)
+[https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ---
 ## Versões
