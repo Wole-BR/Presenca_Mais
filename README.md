@@ -27,4 +27,4 @@ Você pode utilizar e compartilhar o conteúdo, desde que atribua o autor, não 
 ## 🌐 Links
 
 - **Wole:** 
-https://www.instagram.com/wole.br?igsh=djVnaHlkemtiaWp6
+https://www.instagram.com/wole.br
